@@ -14,6 +14,7 @@ namespace ConsoleApplication14
             Car car2 = new Car(4.8, "Ford");
 
             Car car3 = Car.Create();
+            Console.WriteLine("jakiś lancuch");
             Console.ReadKey();
             
         }
